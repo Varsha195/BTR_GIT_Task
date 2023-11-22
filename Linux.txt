@@ -1,0 +1,9 @@
+Write down the topics you know in Linux
+
+Linux Commands
+Shell Scripting
+History of Linux
+Architecture of Linux
+File Directories
+File Systems
+

@@ -1,0 +1,14 @@
+AWS Cloud
+EC2
+S3
+IAM
+SNS
+Cloudshell
+Cloudwatch
+Lambda
+Route53
+VPC
+HTML
+CSS
+Python
+MS Office

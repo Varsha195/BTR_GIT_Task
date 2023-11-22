@@ -1,0 +1,11 @@
+Write down the topics you know in GIT
+
+GIT:
+
+Traditional Software
+VCS
+GIT Commands
+GITHUB vs GITLAB
+GIT vs Mecurial
+Stages in GIT
+
